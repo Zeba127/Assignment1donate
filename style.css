@@ -11,6 +11,7 @@ body{
     margin-right: 200px;
     padding-top: 100px;
     
+    
 }
 h1{
     font-size: 40px;
@@ -98,6 +99,7 @@ hr{
 }
 .color-p{
     color:grey ;
+  
 }
 .donate-plan{
     display: flex;
@@ -149,4 +151,77 @@ hr{
    
 }
 .footer-color p{
-    color: gray;}
+    color: gray;
+}
+.subscribe-bar{
+    display: flex;
+    background-color: rgb(235, 188, 196);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 20%;
+    padding-right: 15px;
+
+}
+.btn{
+    background-color: tomato;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 30px;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-bottom:17px ;
+    color: black;
+    
+}
+.mail-box{
+    background-color: ghostwhite;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-right: 200px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: black;
+}
+.last-project{
+    text-align: center;
+}
+span{
+    color: orangered;
+}
+.project-card{
+    display: flex;
+    padding: 20px;
+}
+.project{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3% ;
+    margin-bottom: 3%;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 15px;
+
+}
+.projects-pic{
+    margin-left: 3%;
+    margin-right: 3%;
+
+    
+}
+.projects-info{
+            margin-top: -45px;
+            padding-left: 5%;
+            padding-right: 5%;
+}
+.projects-pic img{
+                   width: 400px;
+                   height: 200px;
+                   padding-top: 5%;
+                   
+
+}
