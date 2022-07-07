@@ -73,8 +73,8 @@ h1{
           color: red;
 }
 .amount-tk{
-          
-          padding-left:43%;
+        
+          padding-left: 40%;
           padding-right: 30%;
           color: grey;
 }
@@ -156,37 +156,40 @@ hr{
 .subscribe-bar{
     display: flex;
     background-color: rgb(235, 188, 196);
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
     margin-bottom: 50px;
-    margin-top: 50px;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    padding-left: 20%;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 180px;
     padding-right: 15px;
 
 }
 .btn{
     background-color: tomato;
-    padding-top: 15px;
-    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 30px;
     border-radius: 3px;
     text-decoration: none;
-    margin-top: 17px;
-    margin-bottom:17px ;
+    margin-top: 15px;
+    margin-bottom:15px ;
     color: black;
+    border: none;
     
 }
 .mail-box{
     background-color: ghostwhite;
-    padding-top: 15px;
-    padding-bottom: 5px;
-    padding-right: 200px;
+    padding-right: 80px;
     border-radius: 3px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     text-decoration: none;
     color: black;
+    outline: none;
+    border: none;
 }
 .last-project{
     text-align: center;
